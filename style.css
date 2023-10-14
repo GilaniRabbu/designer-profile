@@ -103,7 +103,7 @@ h1 {
   padding: 1em;
 }
 
-.candidate>img {
+.candidate > img {
   border-radius: var(--border-radius);
 }
 
